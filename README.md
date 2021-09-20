@@ -50,3 +50,5 @@ connected throughout the game.
 <h2> Link to download the executable file </h2>
 Note: Download both the .dll and .exe files in the same folder and then run the .exe file
 https://drive.google.com/drive/folders/1dLquXmLLV22TYOyML8EKYrgi3Tdfu2wN?usp=sharing
+<h2> Youtube video explaing the project </h2>
+https://www.youtube.com/watch?v=7wNKeD3mM3k
