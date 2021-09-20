@@ -48,4 +48,5 @@ connected throughout the game.
 <img src = "https://github.com/gautamthareja/MiniTetris/blob/main/Application%20Screenshots/img8.png" width="500" height="316" >
 <h3></h3>
 <h2> Link to download the executable file </h2>
+Note: Download both the .dll and .exe files in the same folder an then run the .exe file
 https://drive.google.com/drive/folders/1dLquXmLLV22TYOyML8EKYrgi3Tdfu2wN?usp=sharing
